@@ -29,6 +29,7 @@ namespace UpperUnion
                 StringBuilder finalString = new StringBuilder();
                 finalString.Append(String.Join("-", args));
 
+                // Imprime finalString 
                 Console.WriteLine(finalString);
             }
         }
